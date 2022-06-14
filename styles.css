@@ -1,0 +1,39 @@
+body    {
+    background-color: beige;
+    font-family: "Oswald", "Verdana", sans-serif;
+    text-align: center;
+}
+
+h1, h2, h3  {
+    
+    font-weight: bold;
+    color: rgb(92, 25, 97) ;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+img {
+    width: 350px;
+    height: auto;
+}
+
+ul  {
+    list-style-type: none;
+}
+
+.listeindex  {
+    display: inline;
+}
+
+ol  {
+    display: inline;
+}
+
+a:hover    {
+    color:rgb(95, 67, 93);
+}
+
+li  {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
